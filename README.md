@@ -10,6 +10,11 @@ educational / authorized-testing artifact, not a weapon.
 
 > ⚠️ Use only against systems you own or are authorized to test.
 
+## Blog posts
+
+- English: https://windshock.github.io/en/post/2026-11-02-oreilly-cos-upload-curse/
+- Korean (한국어): https://windshock.github.io/ko/post/2026-11-02-oreilly-cos-upload-curse/
+
 ## The thesis
 
 Sample code in books and tutorials is written for **clarity**, not for
