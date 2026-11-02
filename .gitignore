@@ -1,0 +1,4 @@
+# public jar is fetched by scripts/fetch-cos.sh, not committed
+webapp/WEB-INF/lib/*.jar
+# runtime upload artifacts
+webapp/uploads/
